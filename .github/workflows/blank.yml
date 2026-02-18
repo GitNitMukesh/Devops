@@ -3,7 +3,7 @@ name: gokulec2_v5
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   deploy:
